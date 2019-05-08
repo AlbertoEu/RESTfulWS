@@ -2,7 +2,6 @@ package me.jmll.utm.model;
 
 import java.util.Hashtable;
 import java.util.Map;
-
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
