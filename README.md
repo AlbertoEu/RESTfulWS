@@ -1,12 +1,7 @@
-# RESTfulWS
+## CS13304 - Computación Avanzada en Java
+- Por: Jose Manuel Lopez Lujan, MIT
 
-Alberto Eugenio Reyes Camacho
-#2749484
-
-a) Instalación  
-
-b) Uso  
-
-c) Créditos  
-
-d) Licencia 
+### CS13304T12 - RESTful Web Services
+ 
+#### Tema 12 - Actividad 1
+ 
